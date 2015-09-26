@@ -1,0 +1,7 @@
+*~
+src/resource.c
+src/vala-oauth.c
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
